@@ -10,6 +10,7 @@ func main() {
 
 	fmt.Println("Info : ")
 	fmt.Println()
+
 	fmt.Println("Name:", fullName)
 	fmt.Println("Age:", age)
 	fmt.Println("Height:", height)
