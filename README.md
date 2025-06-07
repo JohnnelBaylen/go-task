@@ -1,4 +1,4 @@
-# Java Learning Levels
+# Go/Golang Learning Levels
 
 - A collection of Java examples organized by skill level.
 
@@ -13,7 +13,7 @@
 ├── src/
 │   ├── advanced/components/
 │   │   └── prime-finder.go
-│   ├── big/component/
+│   ├── beginner/component/
 │   │   ├── calendar/
 │   │   ├── even-odd/
 │   │   └── info/
